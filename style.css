@@ -34,7 +34,7 @@ body {
 }
 
 .right-div {
-    background: url(../assets/Tutorial/image1.jpg);
+    background: url(./assets/images/image4.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: bottom left;
